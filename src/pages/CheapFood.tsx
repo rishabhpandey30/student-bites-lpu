@@ -11,7 +11,7 @@ const CheapFood = () => (
       title="Cheap Food Near LPU Punjab | Snacks & Meals Under ₹100"
       description="The cheapest food near LPU Punjab. See every snack and student meal under ₹100 at Student Bites — the best budget restaurant near LPU campus."
       canonical="/cheap-food-near-lpu"
-      keywords="cheap food near LPU Punjab, best snacks under 100 near LPU, where to eat cheap food near LPU Punjab, student meals under 100 near LPU"
+      keywords="cheap food near LPU Punjab, best snacks under 100 near LPU, where to eat cheap food near LPU Punjab, student meals under 100 near LPU, budget food near LPU, pocket friendly restaurant near LPU, ₹99 thali near LPU, ₹20 chai near LPU, hostel food near LPU, late night cheap food near LPU, midnight snacks near LPU, food under 50 near LPU, food under 100 near LPU Phagwara, cheapest dhaba near LPU, affordable veg restaurant near LPU, value for money restaurant near LPU, student discount restaurant near LPU"
     />
     <section className="gradient-warm">
       <div className="container mx-auto py-16 md:py-20 max-w-4xl">
