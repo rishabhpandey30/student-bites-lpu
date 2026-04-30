@@ -13,6 +13,9 @@ export const Footer = () => (
         <ul className="space-y-2 text-sm opacity-90">
           <li><Link to="/menu" className="hover:text-primary-glow">Menu</Link></li>
           <li><Link to="/cheap-food-near-lpu" className="hover:text-primary-glow">Cheap Food Near LPU</Link></li>
+          <li><Link to="/best-food-near-lpu" className="hover:text-primary-glow">Best Food Near LPU</Link></li>
+          <li><Link to="/cheap-eats-lpu" className="hover:text-primary-glow">Cheap Eats Under ₹200</Link></li>
+          <li><Link to="/top-restaurants-lpu" className="hover:text-primary-glow">Top Restaurants Near LPU</Link></li>
           <li><Link to="/blog" className="hover:text-primary-glow">Blog</Link></li>
           <li><Link to="/about" className="hover:text-primary-glow">About</Link></li>
           <li><Link to="/contact" className="hover:text-primary-glow">Contact</Link></li>

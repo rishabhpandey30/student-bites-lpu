@@ -39,10 +39,10 @@ const Home = () => {
   return (
     <>
       <SEO
-        title="Best Budget Restaurant Near LPU Punjab | Student Bites"
-        description="Student Bites is the best budget restaurant near LPU Punjab. Affordable student meals, snacks under ₹100 and cheap food near LPU campus, Phagwara — open till 1 AM."
+        title="Best Student Food Near LPU | Affordable Meals | Student Bites"
+        description="Discover the best and cheapest food options near Lovely Professional University (LPU). Explore student-friendly restaurants, affordable meals, and top food spots."
         canonical="/"
-        keywords="best budget restaurant near LPU Punjab, affordable restaurant near LPU, cheap food near LPU Punjab, student restaurant near LPU, restaurants near LPU campus, best restaurant in Phagwara Punjab, food near LPU university, food near LPU Law Gate, food near LPU hostel, late night food near LPU, late night restaurant near LPU Phagwara, midnight food delivery near LPU, food delivery near LPU, online food order near LPU, veg restaurant near LPU, pure veg restaurant near LPU, North Indian restaurant near LPU, Punjabi dhaba near LPU, Chinese food near LPU, Indo Chinese near LPU, fast food near LPU, best thali near LPU, ₹99 thali near LPU, student combo meal near LPU, snacks under 100 near LPU, meals under 100 near LPU, breakfast near LPU, lunch near LPU, dinner near LPU, food near Lovely Professional University, restaurants near Lovely Professional University Phagwara, dhaba near LPU Jalandhar, food near LPU gate 1, food near LPU gate 2, food near LPU Uni Mall, cafe near LPU, study cafe near LPU, wifi cafe near LPU, paneer butter masala near LPU, chole bhature near LPU, samosa near LPU, maggi near LPU, chai near LPU, burger near LPU, momos near LPU, biryani near LPU, rolls near LPU, lassi near LPU, cold coffee near LPU, top rated restaurant near LPU, cheapest restaurant near LPU, hangout place near LPU, group dining near LPU, birthday celebration near LPU"
+        keywords="student food near LPU, cheap food near LPU, best restaurants near LPU, affordable meals LPU, best food near LPU, top restaurants near LPU, cheap eats LPU, ₹99 thali near LPU, snacks under 100 near LPU, late night food near LPU, food near Lovely Professional University, restaurants near LPU campus, dhaba near LPU, cafe near LPU, food near LPU Law Gate, food near LPU hostel, food delivery near LPU, student combo meal near LPU, best restaurant in Phagwara Punjab"
         jsonLd={restaurantSchema}
       />
 
@@ -57,17 +57,17 @@ const Home = () => {
             <MapPin className="w-4 h-4" /> Law Gate, Phagwara — 2 min from LPU
           </span>
           <h1 className="mt-6 text-4xl md:text-6xl lg:text-7xl font-bold max-w-4xl text-balance leading-[1.05]">
-            Delicious & Affordable Food for Students near LPU
+            Affordable Student Food Near Lovely Professional University (LPU)
           </h1>
           <p className="mt-6 text-lg md:text-xl max-w-2xl opacity-95">
             The best budget restaurant near LPU Punjab. Hot thalis from ₹99, snacks under ₹100, masala chai at ₹20 — served fresh till 1 AM, every single day.
           </p>
           <div className="mt-9 flex flex-wrap gap-3">
             <Button asChild variant="hero" size="xl" className="bg-background text-primary hover:bg-background/90">
-              <Link to="/menu">Order Now <ArrowRight className="w-5 h-5"/></Link>
+              <Link to="/top-restaurants-lpu">Explore Restaurants <ArrowRight className="w-5 h-5"/></Link>
             </Button>
             <Button asChild variant="outline" size="xl" className="bg-transparent border-background/60 text-primary-foreground hover:bg-background/15">
-              <Link to="/cheap-food-near-lpu">See Cheap Eats</Link>
+              <Link to="/cheap-eats-lpu">Find Cheap Food Near You</Link>
             </Button>
           </div>
           <div className="mt-10 flex flex-wrap items-center gap-6 text-sm">
