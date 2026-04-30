@@ -129,6 +129,27 @@ const Home = () => {
       {/* SEO CONTENT — long form */}
       <section className="container mx-auto py-20">
         <div className="max-w-4xl mx-auto prose-content space-y-6 text-lg leading-relaxed text-foreground/90">
+          <h2 className="text-4xl md:text-5xl">Affordable Student Food Near Lovely Professional University (LPU)</h2>
+          <p>
+            Finding affordable and tasty food near LPU is important for every student. Whether you are looking for cheap eats under ₹100 or the best cafes to hang out with friends, <strong>Student Bites</strong> helps you discover the top food places near Lovely Professional University.
+          </p>
+          <p>
+            There are many student-friendly restaurants near LPU offering budget meals, fast food, and healthy options. From street food stalls to cozy cafes, students have plenty of choices depending on their budget.
+          </p>
+          <p>
+            If you are searching for <Link to="/cheap-eats-lpu" className="text-primary underline">cheap food near LPU</Link>, you can easily find meals under ₹200 that are both filling and delicious. Popular options include rolls, thalis, momos, sandwiches, and more.
+          </p>
+          <p>
+            Student Bites is your go-to platform to explore the <Link to="/best-food-near-lpu" className="text-primary underline">best food near LPU</Link>. We help students save money while enjoying great meals every day.
+          </p>
+          <p className="font-semibold">
+            Explore now and discover the best budget-friendly restaurants near LPU!
+          </p>
+          <div className="flex flex-wrap gap-3 pt-2">
+            <Button asChild variant="hero" size="lg"><Link to="/top-restaurants-lpu">Explore Restaurants</Link></Button>
+            <Button asChild variant="outline" size="lg"><Link to="/cheap-eats-lpu">Find Cheap Food Near You</Link></Button>
+          </div>
+
           <h2 className="text-4xl md:text-5xl">Why Student Bites is the Best Budget Restaurant Near LPU Punjab</h2>
           <p>
             Lovely Professional University attracts students from every corner of India, and along with new friends and lectures comes one universal question — <strong>where do I eat cheap food near LPU Punjab without compromising on taste?</strong> Student Bites was built specifically to answer that question. Located right at Law Gate in Phagwara, just two minutes from the LPU campus, we serve fresh, home-style Indian food at prices a student can actually afford.
