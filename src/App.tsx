@@ -12,6 +12,9 @@ import Contact from "./pages/Contact";
 import Blog from "./pages/Blog";
 import BlogPost from "./pages/blog/BlogPost";
 import CheapFood from "./pages/CheapFood";
+import BestFood from "./pages/BestFood";
+import CheapEats from "./pages/CheapEats";
+import TopRestaurants from "./pages/TopRestaurants";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -28,6 +31,9 @@ const App = () => (
               <Route path="/" element={<Home />} />
               <Route path="/menu" element={<Menu />} />
               <Route path="/cheap-food-near-lpu" element={<CheapFood />} />
+              <Route path="/best-food-near-lpu" element={<BestFood />} />
+              <Route path="/cheap-eats-lpu" element={<CheapEats />} />
+              <Route path="/top-restaurants-lpu" element={<TopRestaurants />} />
               <Route path="/about" element={<About />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/blog" element={<Blog />} />
