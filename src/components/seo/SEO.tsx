@@ -10,7 +10,7 @@ interface SEOProps {
 }
 
 export const SEO = ({ title, description, canonical, keywords, jsonLd, image }: SEOProps) => {
-  const url = `https://studentbites.in${canonical}`;
+  const url = `https://student-bites-lpu.lovable.app${canonical}`;
   return (
     <Helmet>
       <title>{title}</title>
