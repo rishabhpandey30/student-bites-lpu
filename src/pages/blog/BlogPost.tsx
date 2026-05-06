@@ -16,7 +16,7 @@ const BlogPost = () => {
     datePublished: post.date,
     author: { "@type": "Organization", name: "Student Bites" },
     publisher: { "@type": "Organization", name: "Student Bites" },
-    mainEntityOfPage: `https://studentbites.in/blog/${post.slug}`,
+    mainEntityOfPage: `https://student-bites-lpu.lovable.app/blog/${post.slug}`,
   };
 
   return (
