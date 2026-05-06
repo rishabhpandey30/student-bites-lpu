@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://studentbites.in/sitemap.xml
+Sitemap: https://student-bites-lpu.lovable.app/sitemap.xml
