@@ -41,7 +41,7 @@ const Menu = () => {
         title="Menu | Affordable Student Meals & Snacks Under ₹100 Near LPU"
         description="Explore the Student Bites menu — cheap food near LPU Punjab including snacks, full meals and beverages. Affordable student meals starting at ₹20."
         canonical="/menu"
-        keywords="student meals under 100 near LPU, snacks under 100 near LPU, cheap food near LPU Punjab, affordable restaurant near LPU"
+        keywords="student meals near lpu, snacks under 100 near LPU, late night food near LPU, affordable restaurants near me, cheap meals near me, cheap food options near me, best affordable restaurants near me"
         jsonLd={menuSchema}
       />
 

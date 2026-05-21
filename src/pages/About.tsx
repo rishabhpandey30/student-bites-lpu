@@ -8,7 +8,7 @@ const About = () => (
       title="About Student Bites | Affordable Restaurant Near LPU Punjab"
       description="Learn the story of Student Bites — an affordable restaurant near LPU built by an ex-LPU student to serve quality, cheap food near LPU Punjab."
       canonical="/about"
-      keywords="affordable restaurant near LPU, student restaurant near LPU, best restaurant in Phagwara Punjab"
+      keywords="student meals near lpu, snacks under 100 near LPU, late night food near LPU, affordable restaurants near me, cheap meals near me, cheap food options near me, best affordable restaurants near me"
     />
     <section className="container mx-auto py-16 md:py-24 grid lg:grid-cols-2 gap-12 items-center">
       <div>

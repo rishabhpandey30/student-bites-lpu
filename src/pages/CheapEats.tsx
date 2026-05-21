@@ -10,7 +10,7 @@ const CheapEats = () => (
       title="Cheap Eats Near LPU Under ₹200 | Affordable Meals | Student Bites"
       description="The ultimate list of cheap eats near LPU under ₹200. Affordable meals, snacks and student combos around Lovely Professional University, Phagwara."
       canonical="/cheap-eats-lpu"
-      keywords="cheap eats LPU, cheap food near LPU, affordable meals near me, student food near LPU, snacks under 100 near LPU, ₹99 thali near LPU, budget food near me"
+      keywords="student meals near lpu, snacks under 100 near LPU, late night food near LPU, affordable restaurants near me, cheap meals near me, cheap food options near me, best affordable restaurants near me"
     />
 
     <section className="relative overflow-hidden">

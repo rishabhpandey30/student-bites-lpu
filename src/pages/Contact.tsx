@@ -7,7 +7,7 @@ const Contact = () => (
       title="Contact | Student Bites Restaurant Near LPU Campus"
       description="Visit Student Bites at Law Gate near LPU campus, Phagwara, Punjab. Open 9 AM – 1 AM daily. Call +91 98765 43210 to order cheap food near LPU Punjab."
       canonical="/contact"
-      keywords="restaurants near LPU campus, student restaurant near LPU, best restaurant in Phagwara Punjab"
+      keywords="student meals near lpu, snacks under 100 near LPU, late night food near LPU, affordable restaurants near me, cheap meals near me, cheap food options near me, best affordable restaurants near me"
     />
     <section className="gradient-warm">
       <div className="container mx-auto py-16 md:py-20">
