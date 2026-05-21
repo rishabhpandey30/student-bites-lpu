@@ -10,7 +10,7 @@ const CheapEats = () => (
       title="Cheap Eats Near LPU Under ₹200 | Affordable Meals | Student Bites"
       description="The ultimate list of cheap eats near LPU under ₹200. Affordable meals, snacks and student combos around Lovely Professional University, Phagwara."
       canonical="/cheap-eats-lpu"
-      keywords="cheap eats LPU, cheap food near LPU, affordable meals LPU, student food near LPU, snacks under 100 near LPU, ₹99 thali near LPU, budget food near LPU"
+      keywords="cheap eats LPU, cheap food near LPU, affordable meals near me, student food near LPU, snacks under 100 near LPU, ₹99 thali near LPU, budget food near me"
     />
 
     <section className="relative overflow-hidden">
@@ -53,7 +53,7 @@ const CheapEats = () => (
 
         <h2 className="text-4xl md:text-5xl mt-10">Why students need affordable food near LPU</h2>
         <p>
-          A typical LPU hostelite spends ₹150–₹300 on food per day. Multiply that by 30 days and food alone becomes a ₹6,000–₹9,000 monthly bill. Choosing <strong>affordable meals LPU</strong> students actually enjoy — instead of overpriced food apps — can cut that nearly in half. That's a phone EMI, a Goa trip, or three months of Netflix saved every semester.
+          A typical LPU hostelite spends ₹150–₹300 on food per day. Multiply that by 30 days and food alone becomes a ₹6,000–₹9,000 monthly bill. Choosing <strong>affordable meals near me</strong> students actually enjoy — instead of overpriced food apps — can cut that nearly in half. That's a phone EMI, a Goa trip, or three months of Netflix saved every semester.
         </p>
 
         <h2 className="text-4xl md:text-5xl mt-10">Popular cheap food options near LPU</h2>

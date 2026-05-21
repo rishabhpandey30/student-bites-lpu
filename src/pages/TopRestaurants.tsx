@@ -10,7 +10,7 @@ const TopRestaurants = () => (
       title="Top Restaurants Near LPU | Best Student Food Spots | Student Bites"
       description="The top restaurants near LPU for students — ranked by taste, price and hygiene. Find the best places to eat around Lovely Professional University, Phagwara."
       canonical="/top-restaurants-lpu"
-      keywords="top restaurants near LPU, best restaurants near LPU, student food near LPU, best food near LPU, affordable meals LPU, restaurants near Lovely Professional University"
+      keywords="top restaurants near LPU, best restaurants near LPU, student food near LPU, best food near LPU, affordable meals near me, restaurants near Lovely Professional University"
     />
 
     <section className="relative overflow-hidden">
@@ -48,7 +48,7 @@ const TopRestaurants = () => (
 
         <h2 className="text-4xl md:text-5xl mt-10">Top Budget-Friendly Restaurants Near LPU</h2>
         <p>
-          When students are asked which restaurants they'd recommend to a junior, three names come up again and again. Leading the pack is <Link to="/" className="text-primary underline">Student Bites</Link>, the long-standing favourite for <strong>affordable meals LPU</strong> students grew up on. Close behind are the Punjabi-style dhabas near Law Gate and the Indo-Chinese counters around Uni Mall — all serving generous portions at honest prices.
+          When students are asked which restaurants they'd recommend to a junior, three names come up again and again. Leading the pack is <Link to="/" className="text-primary underline">Student Bites</Link>, the long-standing favourite for <strong>affordable meals near me</strong> students grew up on. Close behind are the Punjabi-style dhabas near Law Gate and the Indo-Chinese counters around Uni Mall — all serving generous portions at honest prices.
         </p>
 
         <h2 className="text-4xl md:text-5xl mt-10">Cheap Eats Near LPU Under ₹200</h2>

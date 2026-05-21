@@ -42,7 +42,7 @@ const Home = () => {
         title="Best Student Food Near LPU | Affordable Meals | Student Bites"
         description="Discover the best and cheapest food options near Lovely Professional University (LPU). Explore student-friendly restaurants, affordable meals, and top food spots."
         canonical="/"
-        keywords="student food near LPU, cheap food near LPU, best restaurants near LPU, affordable meals LPU, best food near LPU, top restaurants near LPU, cheap eats LPU, ₹99 thali near LPU, snacks under 100 near LPU, late night food near LPU, food near Lovely Professional University, restaurants near LPU campus, dhaba near LPU, cafe near LPU, food near LPU Law Gate, food near LPU hostel, food delivery near LPU, student combo meal near LPU, best restaurant in Phagwara Punjab"
+        keywords="student food near LPU, cheap food near LPU, best restaurants near LPU, affordable meals near me, best food near LPU, top restaurants near LPU, cheap eats LPU, ₹99 thali near LPU, snacks under 100 near LPU, late night food near LPU, food near Lovely Professional University, restaurants near LPU campus, dhaba near LPU, cafe near LPU, food near LPU Law Gate, food near LPU hostel, food delivery near LPU, student combo meal near LPU, best restaurant in Phagwara Punjab"
         jsonLd={restaurantSchema}
       />
 
