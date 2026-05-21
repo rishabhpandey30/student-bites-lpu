@@ -9,7 +9,7 @@ const Blog = () => (
       title="Blog | Cheap Eats & Student Food Guides Near LPU Punjab"
       description="Student food guides for LPU — top cheap eats near LPU Punjab, best student meals under ₹100, and where to eat cheap food near LPU campus."
       canonical="/blog"
-      keywords="cheap eats near LPU Punjab, best student meals under 100 near LPU, where to eat cheap food near LPU Punjab"
+      keywords="student meals near lpu, snacks under 100 near LPU, late night food near LPU, affordable restaurants near me, cheap meals near me, cheap food options near me, best affordable restaurants near me"
     />
     <section className="gradient-warm">
       <div className="container mx-auto py-16 md:py-20">

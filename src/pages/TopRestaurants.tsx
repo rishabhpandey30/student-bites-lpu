@@ -10,7 +10,7 @@ const TopRestaurants = () => (
       title="Top Restaurants Near LPU | Best Student Food Spots | Student Bites"
       description="The top restaurants near LPU for students — ranked by taste, price and hygiene. Find the best places to eat around Lovely Professional University, Phagwara."
       canonical="/top-restaurants-lpu"
-      keywords="top restaurants near LPU, best restaurants near LPU, student food near LPU, best food near LPU, affordable meals near me, restaurants near Lovely Professional University"
+      keywords="student meals near lpu, snacks under 100 near LPU, late night food near LPU, affordable restaurants near me, cheap meals near me, cheap food options near me, best affordable restaurants near me"
     />
 
     <section className="relative overflow-hidden">
