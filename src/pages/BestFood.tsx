@@ -10,7 +10,7 @@ const BestFood = () => (
       title="Best Food Near LPU | Top Student Restaurants Phagwara | Student Bites"
       description="Explore the best food near LPU. A curated guide to top student restaurants, must-try dishes and affordable meals near Lovely Professional University, Phagwara."
       canonical="/best-food-near-lpu"
-      keywords="best food near LPU, best restaurants near LPU, student food near LPU, top food places near LPU, food near Lovely Professional University, affordable meals LPU"
+      keywords="best food near LPU, best restaurants near LPU, student food near LPU, top food places near LPU, food near Lovely Professional University, affordable meals near me"
     />
 
     <section className="relative overflow-hidden">
@@ -59,7 +59,7 @@ const BestFood = () => (
 
         <h2 className="text-4xl md:text-5xl mt-10">Why students need affordable meals near LPU</h2>
         <p>
-          Most LPU students live on a fixed monthly budget. Tuition, hostel fees and books already eat up the bigger numbers, so daily food spending becomes the variable that decides whether the month ends comfortably. Choosing <strong>affordable meals LPU</strong> students can rely on — instead of expensive cafés or food apps with delivery charges — can easily save ₹2,000–₹4,000 a month.
+          Most LPU students live on a fixed monthly budget. Tuition, hostel fees and books already eat up the bigger numbers, so daily food spending becomes the variable that decides whether the month ends comfortably. Choosing <strong>affordable meals near me</strong> students can rely on — instead of expensive cafés or food apps with delivery charges — can easily save ₹2,000–₹4,000 a month.
         </p>
         <p>
           That's why this guide focuses on real, walkable, sit-down options near the LPU campus. Whether you want the <strong>best restaurants near LPU</strong> for a Sunday treat or quick <strong>cheap food near LPU</strong> on a Tuesday afternoon, the spots covered here have been chosen for value first, taste second, and never compromise either.
