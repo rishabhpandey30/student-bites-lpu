@@ -8,13 +8,25 @@ import { reviews } from "@/data/reviews";
 
 const featured = menu.filter(m => ["thali", "samosa", "paneer", "chai", "chowmein", "burger"].includes(m.id));
 
+const SITE_URL = "https://student-bites-lpu.lovable.app";
 const restaurantSchema = {
   "@context": "https://schema.org",
-  "@type": "Restaurant",
+  "@type": ["Restaurant", "LocalBusiness"],
+  "@id": `${SITE_URL}/#restaurant`,
   name: "Student Bites",
-  image: "https://studentbites.in/og-image.jpg",
-  "@id": "https://studentbites.in",
-  url: "https://studentbites.in",
+  alternateName: [
+    "Affordable Restaurant Near Me",
+    "Cheap Meals Near Me",
+    "Best Affordable Restaurant Near Me",
+    "Cheap Food Options Near Me",
+    "Student Meals Near LPU",
+  ],
+  description:
+    "Student Bites is the best affordable restaurant near me for LPU students — cheap meals near me, snacks under ₹100, late-night food and cheap food options near me, served fresh at Law Gate, Phagwara.",
+  keywords:
+    "affordable restaurants near me, cheap meals near me, cheap food options near me, best affordable restaurants near me, student meals near LPU, snacks under 100 near LPU, late night food near LPU",
+  image: [`${SITE_URL}/og-image.jpg`],
+  url: SITE_URL,
   telephone: "+91-98765-43210",
   priceRange: "₹",
   servesCuisine: ["Indian", "Punjabi", "Indo-Chinese", "Snacks"],
@@ -26,13 +38,42 @@ const restaurantSchema = {
     postalCode: "144411",
     addressCountry: "IN",
   },
-  geo: { "@type": "GeoCoordinates", latitude: 31.2560, longitude: 75.7050 },
-  openingHoursSpecification: [{
-    "@type": "OpeningHoursSpecification",
-    dayOfWeek: ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-    opens: "09:00", closes: "01:00",
-  }],
-  aggregateRating: { "@type": "AggregateRating", ratingValue: "4.8", reviewCount: "1284" },
+  geo: {
+    "@type": "GeoCoordinates",
+    latitude: 31.2560,
+    longitude: 75.7050,
+  },
+  hasMap: "https://www.google.com/maps?q=31.2560,75.7050",
+  areaServed: [
+    { "@type": "Place", name: "Lovely Professional University" },
+    { "@type": "Place", name: "Law Gate, Phagwara" },
+    { "@type": "Place", name: "Deep Nagar, Phagwara" },
+    { "@type": "City", name: "Phagwara" },
+  ],
+  openingHoursSpecification: [
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+      ],
+      opens: "09:00",
+      closes: "01:00",
+    },
+  ],
+  acceptsReservations: "True",
+  paymentAccepted: ["Cash", "UPI", "Credit Card", "Debit Card"],
+  currenciesAccepted: "INR",
+  aggregateRating: {
+    "@type": "AggregateRating",
+    ratingValue: "4.8",
+    reviewCount: "1284",
+  },
 };
 
 const Home = () => {
